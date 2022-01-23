@@ -1,2 +1,3 @@
 selenium
 pytest
+pip install allure-pytest
